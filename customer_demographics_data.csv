@@ -1,0 +1,51 @@
+CustomerID,Age,Gender,Location,Customer_Segment,Tenure_Months,Last_Purchase_Days_Ago,Preferred_Category
+10032,70.0,Male,Urban,Inactive,13,629,Electronics
+10023,54.0,Female,Urban,At-Risk,110,562,Electronics
+10012,43.0,Male,Suburban,Inactive,84,180,Beauty
+10002,29.0,Female,Suburban,Loyal,23,36,Home Goods
+10046,36.0,Male,Urban,Loyal,111,427,Apparel
+10062,54.0,Male,Suburban,At-Risk,67,376,Home Goods
+10024,58.0,Female,Urban,Inactive,85,386,Beauty
+10076,,Male,Urban,Loyal,80,599,Books & Media
+10064,30.0,Male,Urban,High-Value,112,397,Books & Media
+10059,64.0,Male,Urban,,28,496,Apparel
+10041,73.0,Female,Urban,New,78,575,Groceries
+10068,18.0,Male,Urban,Inactive,4,691,Groceries
+10066,40.0,Female,Urban,New,92,231,Books & Media
+10038,28.0,Female,Suburban,At-Risk,30,297,Apparel
+10029,63.0,Female,Urban,Loyal,3,288,Home Goods
+10069,50.0,Other,Rural,At-Risk,83,366,Electronics
+10033,44.0,Male,Suburban,At-Risk,86,519,Home Goods
+10058,64.0,Male,Suburban,Loyal,105,105,Books & Media
+10021,72.0,Female,Suburban,At-Risk,112,687,Home Goods
+10057,31.0,Male,Urban,New,48,427,Electronics
+10063,63.0,Male,Urban,High-Value,119,652,Books & Media
+10071,29.0,Female,Urban,Loyal,34,124,Books & Media
+10045,50.0,Male,Urban,New,28,196,Beauty
+10067,24.0,Other,Urban,Loyal,75,417,Books & Media
+10010,55.0,Male,Urban,At-Risk,113,312,Groceries
+10075,68.0,Male,Urban,Loyal,58,305,Home Goods
+10072,42.0,Female,Urban,Loyal,55,349,Apparel
+10020,59.0,Other,Urban,Loyal,26,181,Electronics
+10056,57.0,Female,Urban,New,113,346,Apparel
+10070,58.0,Female,Urban,New,39,447,Home Goods
+10065,27.0,Male,Urban,At-Risk,46,217,Electronics
+10043,19.0,Female,Suburban,Loyal,12,71,Home Goods
+10007,27.0,Female,Urban,New,91,160,Apparel
+10034,64.0,Female,Urban,High-Value,53,379,Home Goods
+10017,27.0,Female,Urban,At-Risk,17,621,Electronics
+10048,54.0,Female,Rural,At-Risk,113,176,Books & Media
+10055,26.0,Female,Urban,New,78,204,Home Goods
+10073,,Male,Suburban,Loyal,89,148,Apparel
+10014,58.0,Female,Urban,High-Value,108,18,Electronics
+10074,49.0,Female,Urban,Loyal,1,343,Apparel
+10025,27.0,Male,Suburban,Loyal,28,149,Beauty
+10060,22.0,Male,Rural,Inactive,109,516,Home Goods
+10028,49.0,Female,Urban,New,114,378,Electronics
+10053,29.0,Female,Urban,Loyal,44,463,Groceries
+10030,28.0,Male,Rural,Inactive,60,600,Apparel
+10031,67.0,Male,Urban,Loyal,90,180,Beauty
+10006,36.0,Male,Suburban,High-Value,49,435,Books & Media
+10009,34.0,Female,Urban,Inactive,71,641,Beauty
+10018,68.0,Female,Urban,New,88,462,Beauty
+10061,51.0,Male,Urban,High-Value,103,523,Books & Media

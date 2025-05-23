@@ -1,0 +1,51 @@
+StockCode,ProductName,Category,Brand,CostPrice,Weight_kg,IsDiscontinued
+PROD016,Product_Name_PROD016,Clothing,BrandZ,432.56,5.43,0
+PROD023,Product_Name_PROD023,Food & Beverages,BrandZ,86.07,2.26,0
+PROD014,Product_Name_PROD014,Electronics,NoBrand,385.25,6.9,1
+PROD015,Product_Name_PROD015,Toys,BrandY,285.07,4.7,0
+PROD022,Product_Name_PROD022,Food & Beverages,BrandX,25.8,3.93,0
+PROD021,Product_Name_PROD021,Books,BrandX,10.51,6.41,1
+PROD004,Product_Name_PROD004,Home & Garden,BrandX,348.18,6.52,0
+PROD025,Product_Name_PROD025,Food & Beverages,BrandY,71.64,3.79,0
+PROD035,Product_Name_PROD035,Books,BrandX,378.9,4.58,0
+PROD007,Product_Name_PROD007,Books,NoBrand,276.29,8.76,0
+PROD020,Product_Name_PROD020,Home & Garden,BrandX,69.94,8.73,0
+PROD013,Product_Name_PROD013,Books,NoBrand,262.57,3.51,0
+PROD026,Product_Name_PROD026,Books,BrandX,399.05,8.16,0
+PROD011,Product_Name_PROD011,Clothing,NoBrand,225.96,2.18,0
+PROD033,Product_Name_PROD033,Books,BrandX,405.47,4.71,0
+PROD018,Product_Name_PROD018,Books,BrandX,466.78,0.92,0
+PROD032,Product_Name_PROD032,Food & Beverages,BrandY,98.12,8.06,0
+PROD034,Product_Name_PROD034,Home & Garden,NoBrand,212.42,1.94,0
+PROD038,Product_Name_PROD038,Clothing,BrandX,290.6,9.26,0
+PROD031,Product_Name_PROD031,Toys,BrandZ,317.05,5.03,0
+PROD002,Product_Name_PROD002,Home & Garden,BrandZ,122.37,6.92,0
+PROD017,Product_Name_PROD017,Home & Garden,BrandX,429.53,4.86,0
+PROD012,Product_Name_PROD012,Books,BrandY,322.64,1.93,0
+PROD006,Product_Name_PROD006,Toys,BrandX,315.56,1.56,0
+PROD003,Product_Name_PROD003,Books,NoBrand,332.08,6.69,0
+PROD009,Product_Name_PROD009,Electronics,BrandY,201.06,6.51,0
+PROD027,Product_Name_PROD027,Toys,BrandX,444.02,9.71,0
+PROD028,Product_Name_PROD028,Toys,BrandX,270.63,2.03,0
+PROD029,Product_Name_PROD029,Books,BrandX,43.1,4.2,0
+PROD030,Product_Name_PROD030,Books,BrandZ,91.26,9.32,0
+PROD031,Product_Name_PROD031,Toys,NoBrand,318.77,7.81,0
+PROD032,Product_Name_PROD032,Toys,NoBrand,467.32,4.9,1
+PROD033,Product_Name_PROD033,Food & Beverages,BrandX,342.06,7.0,1
+PROD034,Product_Name_PROD034,Clothing,BrandY,363.45,3.35,0
+PROD035,Product_Name_PROD035,Home & Garden,BrandX,89.45,1.85,0
+PROD036,Product_Name_PROD036,Clothing,BrandZ,24.64,2.22,0
+PROD037,Product_Name_PROD037,Electronics,BrandX,126.12,6.91,0
+PROD038,Product_Name_PROD038,Food & Beverages,NoBrand,332.74,5.41,0
+PROD039,Product_Name_PROD039,Food & Beverages,NoBrand,181.14,9.21,0
+PROD040,Product_Name_PROD040,Food & Beverages,BrandZ,44.06,4.62,0
+PROD041,Product_Name_PROD041,Books,BrandY,372.37,6.81,0
+PROD042,Product_Name_PROD042,Electronics,BrandZ,234.74,1.65,0
+PROD043,Product_Name_PROD043,Home & Garden,BrandZ,293.52,7.56,0
+PROD044,Product_Name_PROD044,Electronics,BrandX,268.28,4.8,1
+PROD045,Product_Name_PROD045,Books,BrandY,99.9,1.1,0
+PROD046,Product_Name_PROD046,Clothing,BrandX,17.66,7.2,0
+PROD047,Product_Name_PROD047,Toys,BrandY,379.84,6.98,0
+PROD048,Product_Name_PROD048,Clothing,BrandZ,110.39,3.19,0
+PROD049,Product_Name_PROD049,Toys,NoBrand,319.35,9.26,1
+PROD050,Product_Name_PROD050,Clothing,BrandZ,377.12,6.53,0
